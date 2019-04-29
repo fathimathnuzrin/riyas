@@ -20,3 +20,5 @@ urlpatterns = [
     path('', include('polls.urls')),
     path('admin/', admin.site.urls),
 ]
+
+print ("riyas")
